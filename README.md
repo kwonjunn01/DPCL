@@ -2,5 +2,5 @@
 The source code will be released soon.
 
 <div align="center">
-  <img src="fig/frame1_.jpg"width="800" height="800"/>
+  <img src="fig/frame1_.jpg"width="800" height="600"/>
 </div>
