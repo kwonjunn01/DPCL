@@ -2,5 +2,5 @@
 The source code will be released soon.
 
 <div align="center">
-  <img src="fig/frame1_.jpg"/>
+  <img src="fig/frame1_.jpg"/>{: width="80%" height="80%"}
 </div>
